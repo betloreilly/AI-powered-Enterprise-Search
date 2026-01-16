@@ -1,0 +1,342 @@
+[
+  {
+    "product_id": "TECH-001",
+    "title": "MacBook Pro 16-inch M3 Max",
+    "description": "Revolutionary MacBook Pro featuring the powerful M3 Max chip with 16-core CPU and 40-core GPU. Stunning 16.2-inch Liquid Retina XDR display with ProMotion technology delivers exceptional brightness and contrast. Up to 128GB unified memory and 8TB SSD storage for professional workflows. Features advanced thermal design, studio-quality microphones, six-speaker sound system, and up to 22 hours of battery life. Perfect for video editing, 3D rendering, software development, music production, and demanding creative work.",
+    "semantic_description": "MacBook Pro laptop Apple M3 Max professional computer video editing 3D rendering software development creative workstation high performance portable workstation",
+    "price": 3499.99,
+    "brand": "Apple",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "SKU": "APPLE-MBP-M3MAX-001",
+    "availability_status": "in_stock",
+    "inventory_count": 25,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "AUDIO-001",
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "Industry-leading noise cancelling wireless headphones with exceptional sound quality and comfort. Features 8 microphones for superior call clarity, 30-hour battery life, and multipoint connection. Advanced Auto NC Optimizer automatically adjusts to your environment. Soft-fit leather and lightweight design ensure all-day comfort. Supports LDAC, DSEE Extreme, and 360 Reality Audio. Perfect for travel, commuting, work from home, music production, and audiophile listening.",
+    "semantic_description": "wireless headphones noise cancelling Sony premium audio Bluetooth over-ear headphones travel music audiophile sound quality ANC",
+    "price": 399.99,
+    "brand": "Sony",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "SKU": "SONY-WH1000XM5-001",
+    "availability_status": "in_stock",
+    "inventory_count": 150,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PHONE-001",
+    "title": "iPhone 15 Pro Max 256GB",
+    "description": "Premium smartphone with aerospace-grade titanium design and A17 Pro chip. Features stunning 6.7-inch Super Retina XDR display with ProMotion. Revolutionary 48MP main camera with 5x telephoto zoom and advanced computational photography. Action button for customizable shortcuts. USB-C connectivity with USB 3 speeds. All-day battery life with fast charging. Perfect for photography, videography, gaming, productivity, and everyday communication.",
+    "semantic_description": "iPhone smartphone Apple mobile phone premium camera photography titanium 5G wireless communication iOS device",
+    "price": 1199.99,
+    "brand": "Apple",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "SKU": "APPLE-IP15PM-256-001",
+    "availability_status": "in_stock",
+    "inventory_count": 85,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1592286927505-b0501739c61b?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "WATCH-001",
+    "title": "Rolex Submariner Date",
+    "description": "Iconic luxury dive watch with 41mm Oystersteel case and Cerachrom bezel. Features automatic movement with 70-hour power reserve and water resistance to 300 meters. Oyster bracelet with Glidelock extension system. Superlative Chronometer certification ensures precision. Timeless design combines functionality with elegance. Perfect for diving, professional use, luxury collection, investment piece, and formal occasions.",
+    "semantic_description": "Rolex luxury watch dive watch automatic mechanical Swiss timepiece investment collector premium Submariner waterproof professional",
+    "price": 9550.00,
+    "brand": "Rolex",
+    "category": "Watches",
+    "subcategory": "Luxury Watches",
+    "SKU": "ROLEX-SUB-DATE-001",
+    "availability_status": "in_stock",
+    "inventory_count": 8,
+    "rating": 5.0,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CAM-001",
+    "title": "Canon EOS R5 Mirrorless Camera",
+    "description": "Professional full-frame mirrorless camera with 45MP sensor and 8K RAW video recording. Features advanced Dual Pixel CMOS AF II with eye detection for humans and animals. In-body 5-axis image stabilization up to 8 stops. Shoots 20fps electronic shutter and 12fps mechanical. Weather-sealed magnesium alloy body. Dual card slots support CFexpress and SD. Perfect for wedding photography, wildlife, sports, commercial work, and videography.",
+    "semantic_description": "Canon mirrorless camera professional photography 8K video full-frame DSLR photographer content creator wedding wildlife sports commercial",
+    "price": 3899.99,
+    "brand": "Canon",
+    "category": "Cameras",
+    "subcategory": "Mirrorless Cameras",
+    "SKU": "CANON-R5-001",
+    "availability_status": "in_stock",
+    "inventory_count": 18,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "TABLET-001",
+    "title": "iPad Pro 12.9-inch M2",
+    "description": "Ultimate iPad experience with M2 chip and stunning Liquid Retina XDR display. Features ProMotion technology, True Tone, and P3 wide color. 12MP Ultra Wide front camera with Center Stage. Four-speaker audio and five studio-quality microphones. Works seamlessly with Apple Pencil and Magic Keyboard. All-day battery life with fast charging. Perfect for digital art, note-taking, video editing, productivity, and entertainment.",
+    "semantic_description": "iPad tablet Apple M2 digital art drawing productivity note-taking portable computer touchscreen stylus creative professional",
+    "price": 1099.99,
+    "brand": "Apple",
+    "category": "Electronics",
+    "subcategory": "Tablets",
+    "SKU": "APPLE-IPADPRO-M2-001",
+    "availability_status": "in_stock",
+    "inventory_count": 65,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CHAIR-001",
+    "title": "Herman Miller Aeron Chair",
+    "description": "Legendary ergonomic office chair with PostureFit SL lumbar support and 8Z Pellicle suspension. Features adjustable arms, tilt limiter, and seat angle. Breathable mesh design promotes airflow and comfort. Available in three sizes for perfect fit. 12-year warranty ensures lasting quality. Designed by Don Chadwick and Bill Stumpf. Perfect for home offices, corporate workspaces, executive offices, and long work sessions.",
+    "semantic_description": "Herman Miller Aeron ergonomic office chair premium desk chair professional workspace lumbar support adjustable comfortable designer furniture",
+    "price": 1445.00,
+    "brand": "Herman Miller",
+    "category": "Furniture",
+    "subcategory": "Office Chairs",
+    "SKU": "HM-AERON-001",
+    "availability_status": "in_stock",
+    "inventory_count": 42,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "DESK-001",
+    "title": "Uplift V2 Standing Desk",
+    "description": "Premium electric standing desk with advanced digital memory keypad and collision detection. Features solid wood desktop in multiple finishes and sizes. Adjustable height range 25.3 to 50.9 inches accommodates all users. Dual-motor system lifts up to 355 lbs smoothly and quietly. Wire management solutions included. 15-year warranty on frame. Perfect for home offices, corporate workspaces, health-conscious professionals, and ergonomic setups.",
+    "semantic_description": "standing desk adjustable desk electric desk ergonomic workspace home office sit-stand desk height adjustable professional furniture health",
+    "price": 799.00,
+    "brand": "Uplift",
+    "category": "Furniture",
+    "subcategory": "Desks",
+    "SKU": "UPLIFT-V2-001",
+    "availability_status": "in_stock",
+    "inventory_count": 55,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "MONITOR-001",
+    "title": "LG UltraFine 5K Display 27-inch",
+    "description": "Stunning 5K Retina display with 5120x2880 resolution and P3 wide color gamut. Features Thunderbolt 3 connectivity for single-cable solution providing 94W power delivery. Built-in stereo speakers and camera. Nano IPS technology delivers accurate colors. Height-adjustable stand with tilt. Perfect for creative professionals, photographers, video editors, designers, and Mac users.",
+    "semantic_description": "5K monitor display LG UltraFine Retina screen professional monitor Thunderbolt creative work color accurate photography video editing design",
+    "price": 1299.99,
+    "brand": "LG",
+    "category": "Electronics",
+    "subcategory": "Monitors",
+    "SKU": "LG-UF5K-27-001",
+    "availability_status": "in_stock",
+    "inventory_count": 38,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "KEYBOARD-001",
+    "title": "Keychron Q1 Pro Mechanical Keyboard",
+    "description": "Premium wireless mechanical keyboard with QMK/VIA support and hot-swappable switches. Features full aluminum CNC-machined body with gasket mount design. RGB backlighting with south-facing LEDs. Connects via Bluetooth 5.1 or USB-C. Includes PBT keycaps and sound-absorbing foam. Programmable keys and macros. Perfect for programmers, writers, gamers, and keyboard enthusiasts.",
+    "semantic_description": "mechanical keyboard wireless Keychron custom keyboard gaming keyboard typing programming hot-swappable RGB backlit premium quality",
+    "price": 189.00,
+    "brand": "Keychron",
+    "category": "Electronics",
+    "subcategory": "Keyboards",
+    "SKU": "KEYCHRON-Q1PRO-001",
+    "availability_status": "in_stock",
+    "inventory_count": 120,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "SPEAKER-001",
+    "title": "Sonos Era 300 Smart Speaker",
+    "description": "Revolutionary spatial audio speaker with Dolby Atmos support. Features six optimally positioned drivers including tweeters and woofers. Trueplay tuning technology adapts sound to your space. Touch controls and voice assistant support. Connects via WiFi, Bluetooth, and line-in. Stream from 100+ services. Perfect for home theater, music listening, multi-room audio, and immersive sound experiences.",
+    "semantic_description": "smart speaker Sonos wireless speaker Dolby Atmos spatial audio home audio WiFi speaker voice control music streaming sound system",
+    "price": 449.00,
+    "brand": "Sonos",
+    "category": "Electronics",
+    "subcategory": "Speakers",
+    "SKU": "SONOS-ERA300-001",
+    "availability_status": "in_stock",
+    "inventory_count": 95,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "DRONE-001",
+    "title": "DJI Mavic 3 Pro Drone",
+    "description": "Professional drone with Hasselblad camera and dual tele cameras. Features 4/3 CMOS sensor for 5.1K video and 20MP photos. Omnidirectional obstacle sensing and APAS 5.0. 46-minute flight time and 15km transmission range. ActiveTrack 5.0 and MasterShots. Includes intelligent flight modes and RAW photo support. Perfect for aerial photography, videography, real estate, surveying, and content creation.",
+    "semantic_description": "drone DJI Mavic aerial photography videography 4K camera flying camera professional drone content creator real estate surveying",
+    "price": 2199.00,
+    "brand": "DJI",
+    "category": "Cameras",
+    "subcategory": "Drones",
+    "SKU": "DJI-MAVIC3PRO-001",
+    "availability_status": "in_stock",
+    "inventory_count": 32,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "LIGHT-001",
+    "title": "Elgato Key Light Air",
+    "description": "Professional LED panel light with WiFi control and app integration. Features 1400 lumens brightness and adjustable color temperature 2900-7000K. Edge-lit LED technology provides soft, even illumination. Desk clamp mount included. Control via Stream Deck, mobile app, or desktop software. Energy efficient with minimal heat output. Perfect for streaming, video calls, content creation, photography, and home studios.",
+    "semantic_description": "LED light streaming light key light video lighting photography light studio lighting content creator WiFi smart light adjustable brightness",
+    "price": 129.99,
+    "brand": "Elgato",
+    "category": "Electronics",
+    "subcategory": "Lighting",
+    "SKU": "ELGATO-KEYLIGHT-001",
+    "availability_status": "in_stock",
+    "inventory_count": 145,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "BAG-001",
+    "title": "Peak Design Everyday Backpack V2",
+    "description": "Versatile camera and laptop backpack with weatherproof construction. Features FlexFold dividers for customizable organization. Expandable 20-30L capacity adapts to your needs. External carry straps for tripod or jacket. Dedicated laptop sleeve fits 16-inch devices. Magnetic latch system and side access. Made from recycled materials. Perfect for photographers, travelers, commuters, and everyday carry.",
+    "semantic_description": "camera backpack laptop bag Peak Design photography bag travel backpack everyday carry weatherproof versatile professional photographer commuter",
+    "price": 279.95,
+    "brand": "Peak Design",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "SKU": "PD-EVERYDAY-V2-001",
+    "availability_status": "in_stock",
+    "inventory_count": 78,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "MOUSE-001",
+    "title": "Logitech MX Master 3S",
+    "description": "Advanced wireless mouse with ultra-precise 8K DPI sensor and quiet clicks. Features MagSpeed electromagnetic scrolling and customizable buttons. Multi-device connectivity switches between 3 computers. USB-C quick charging provides 70 days on single charge. Ergonomic design with thumb rest. Works on any surface including glass. Perfect for productivity, design work, programming, and multi-tasking.",
+    "semantic_description": "wireless mouse Logitech productivity mouse ergonomic mouse precision mouse multi-device Bluetooth professional work mouse comfortable",
+    "price": 99.99,
+    "brand": "Logitech",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "SKU": "LOGITECH-MX3S-001",
+    "availability_status": "in_stock",
+    "inventory_count": 210,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "LENS-001",
+    "title": "Sony FE 24-70mm f/2.8 GM II",
+    "description": "Professional standard zoom lens with exceptional sharpness and bokeh. Features advanced optical design with XA and Super ED elements. Fast, quiet autofocus with four XD Linear Motors. Nano AR Coating II reduces flare and ghosting. Weather-sealed construction with fluorine coating. Aperture ring with click on/off switch. Perfect for weddings, portraits, events, journalism, and versatile photography.",
+    "semantic_description": "camera lens Sony zoom lens professional photography 24-70mm f2.8 portrait lens wedding photography versatile lens full-frame mirrorless",
+    "price": 2298.00,
+    "brand": "Sony",
+    "category": "Cameras",
+    "subcategory": "Lenses",
+    "SKU": "SONY-2470GM2-001",
+    "availability_status": "in_stock",
+    "inventory_count": 28,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1606462146674-4e110e0ac0e5?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "GIMBAL-001",
+    "title": "DJI RS 3 Pro Gimbal Stabilizer",
+    "description": "Professional 3-axis gimbal with 4.5kg payload capacity. Features automated axis locks and carbon fiber construction. 1.8-inch OLED touchscreen for intuitive control. ActiveTrack 3.0 and Force Mobile compatibility. Multiple shooting modes including panorama and timelapse. Briefcase mode for easy transport. Perfect for filmmaking, wedding videography, documentary work, and professional video production.",
+    "semantic_description": "gimbal stabilizer DJI video stabilizer camera gimbal filmmaking videography professional video smooth footage cinematic production",
+    "price": 869.00,
+    "brand": "DJI",
+    "category": "Cameras",
+    "subcategory": "Stabilizers",
+    "SKU": "DJI-RS3PRO-001",
+    "availability_status": "in_stock",
+    "inventory_count": 45,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PRINTER-001",
+    "title": "Canon imagePROGRAF PRO-300",
+    "description": "Professional 13-inch photo printer with 10-color LUCIA PRO ink system. Features Chroma Optimizer for enhanced glossiness and reduced bronzing. Print borderless up to 13x19 inches. Advanced media handling supports fine art papers. Built-in color densitometer ensures accuracy. WiFi and Ethernet connectivity. Perfect for professional photographers, fine art printing, galleries, and photo studios.",
+    "semantic_description": "photo printer Canon professional printer fine art printing photography printer color accurate large format printer studio equipment",
+    "price": 999.99,
+    "brand": "Canon",
+    "category": "Electronics",
+    "subcategory": "Printers",
+    "SKU": "CANON-PRO300-001",
+    "availability_status": "in_stock",
+    "inventory_count": 22,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "TRIPOD-001",
+    "title": "Manfrotto MT055XPRO3 Aluminum Tripod",
+    "description": "Professional aluminum tripod with 90-degree center column mechanism. Features Quick Power Lock system for fast setup. Maximum height 170cm, supports up to 9kg. Independent leg angle selectors with three positions. Bubble level and easy link attachment. Includes carrying strap. Compatible with all tripod heads. Perfect for landscape photography, studio work, video production, and professional shoots.",
+    "semantic_description": "tripod Manfrotto professional tripod camera support photography equipment stable video tripod aluminum lightweight studio gear landscape",
+    "price": 249.99,
+    "brand": "Manfrotto",
+    "category": "Cameras",
+    "subcategory": "Tripods",
+    "SKU": "MANFROTTO-055-001",
+    "availability_status": "in_stock",
+    "inventory_count": 68,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1564466809058-bf4114d55352?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "ROUTER-001",
+    "title": "ASUS RT-AX88U Pro WiFi 6 Router",
+    "description": "High-performance WiFi 6 router with 6GHz band support. Features 8 Gigabit LAN ports and 2.5G WAN port. AiMesh technology for whole-home coverage. Advanced security with AiProtection Pro. Gaming acceleration and adaptive QoS. USB 3.2 ports for network storage. VPN support and parental controls. Perfect for smart homes, gaming, streaming, large households, and home offices.",
+    "semantic_description": "WiFi router wireless router gaming router mesh WiFi home network internet router high-speed WiFi 6 smart home networking",
+    "price": 349.99,
+    "brand": "ASUS",
+    "category": "Electronics",
+    "subcategory": "Networking",
+    "SKU": "ASUS-RTAX88U-001",
+    "availability_status": "in_stock",
+    "inventory_count": 92,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?w=800&q=80"
+    ]
+  }
+]

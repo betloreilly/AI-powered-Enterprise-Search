@@ -1,0 +1,31 @@
+# Core Dependencies for AI-powered Enterprise Search
+# This file consolidates all Python dependencies for the project
+
+# Web Framework (for python_service)
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.10.0
+
+# Image Processing & Computer Vision
+pillow>=10.4.0
+torch>=2.1.0
+transformers>=4.35.0
+tensorflow>=2.13.0
+tensorflow-hub>=0.14.0
+
+# OpenSearch & Search
+opensearch-py>=2.0.0
+
+# OpenAI & LLM
+openai>=1.0.0
+
+# HTTP & API
+requests>=2.31.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Optional: Development Tools (uncomment if needed)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0

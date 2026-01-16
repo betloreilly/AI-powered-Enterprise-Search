@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": "PROD-001",
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Premium over-ear wireless headphones with active noise cancellation, 30-hour battery life, and superior sound quality. Perfect for music lovers and professionals.",
+    "price": 199.99,
+    "brand": "AudioTech",
+    "category": "Electronics",
+    "SKU": "AT-WH-001",
+    "availability_status": "in_stock",
+    "inventory_count": 150,
+    "rating": 4.5,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PROD-002",
+    "title": "Smart Fitness Watch",
+    "description": "Advanced fitness tracker with heart rate monitoring, GPS, sleep tracking, and 7-day battery life. Water-resistant up to 50m.",
+    "price": 299.99,
+    "brand": "FitPro",
+    "category": "Electronics",
+    "SKU": "FP-SW-002",
+    "availability_status": "in_stock",
+    "inventory_count": 200,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PROD-003",
+    "title": "Minimalist Leather Backpack",
+    "description": "Handcrafted genuine leather backpack with laptop compartment, multiple pockets, and adjustable straps. Perfect for work and travel.",
+    "price": 149.99,
+    "brand": "UrbanCarry",
+    "category": "Accessories",
+    "SKU": "UC-BP-003",
+    "availability_status": "in_stock",
+    "inventory_count": 75,
+    "rating": 4.6,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PROD-004",
+    "title": "Professional DSLR Camera",
+    "description": "24MP full-frame DSLR camera with 4K video recording, dual card slots, and weather-sealed body. Includes 24-70mm lens.",
+    "price": 1899.99,
+    "brand": "PhotoMaster",
+    "category": "Electronics",
+    "SKU": "PM-CAM-004",
+    "availability_status": "in_stock",
+    "inventory_count": 30,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PROD-005",
+    "title": "Ergonomic Office Chair",
+    "description": "Premium mesh office chair with lumbar support, adjustable armrests, and breathable fabric. Designed for all-day comfort.",
+    "price": 399.99,
+    "brand": "ComfortSeating",
+    "category": "Furniture",
+    "SKU": "CS-OC-005",
+    "availability_status": "in_stock",
+    "inventory_count": 50,
+    "rating": 4.4,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PROD-006",
+    "title": "Stainless Steel Water Bottle",
+    "description": "Insulated 32oz water bottle keeps drinks cold for 24 hours or hot for 12 hours. BPA-free and leak-proof design.",
+    "price": 34.99,
+    "brand": "HydroLife",
+    "category": "Accessories",
+    "SKU": "HL-WB-006",
+    "availability_status": "in_stock",
+    "inventory_count": 300,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PROD-007",
+    "title": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with Cherry MX switches, programmable keys, and aluminum frame. Perfect for gaming and typing.",
+    "price": 159.99,
+    "brand": "GameTech",
+    "category": "Electronics",
+    "SKU": "GT-KB-007",
+    "availability_status": "in_stock",
+    "inventory_count": 120,
+    "rating": 4.6,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "PROD-008",
+    "title": "Portable Bluetooth Speaker",
+    "description": "Waterproof portable speaker with 360-degree sound, 20-hour battery life, and built-in microphone. Perfect for outdoor adventures.",
+    "price": 79.99,
+    "brand": "SoundWave",
+    "category": "Electronics",
+    "SKU": "SW-BS-008",
+    "availability_status": "in_stock",
+    "inventory_count": 180,
+    "rating": 4.5,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&q=80"
+    ]
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "product_id": "ELEC-001",
+    "title": "4K Smart LED TV 55 inch",
+    "description": "Ultra HD 4K Smart LED TV with HDR support, built-in streaming apps, voice control, and stunning picture quality. Features quantum dot technology for vibrant colors and deep blacks. Perfect for home entertainment, movie nights, gaming, and sports viewing.",
+    "semantic_description": "4K television smart TV LED display home entertainment streaming HDR quantum dot voice control gaming monitor large screen ultra HD home theater",
+    "price": 699.99,
+    "brand": "VisionTech",
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "SKU": "VT-TV-001",
+    "availability_status": "in_stock",
+    "inventory_count": 45,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "ELEC-002",
+    "title": "Wireless Gaming Mouse",
+    "description": "High-precision wireless gaming mouse with RGB lighting, programmable buttons, and 20,000 DPI sensor. Features ergonomic design for extended gaming sessions and ultra-fast response time. Perfect for competitive gaming, esports, and professional work.",
+    "semantic_description": "gaming mouse wireless RGB programmable buttons high DPI precision gaming peripheral computer accessory esports competitive gaming ergonomic",
+    "price": 79.99,
+    "brand": "GamePro",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "SKU": "GP-GM-002",
+    "availability_status": "in_stock",
+    "inventory_count": 180,
+    "rating": 4.6,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "ELEC-003",
+    "title": "Noise Cancelling Earbuds",
+    "description": "Premium wireless earbuds with active noise cancellation, transparency mode, and 24-hour battery life with charging case. Features crystal-clear audio, touch controls, and IPX4 water resistance. Perfect for commuting, workouts, travel, and daily use.",
+    "semantic_description": "wireless earbuds noise cancelling bluetooth audio headphones music workout travel commute portable sound quality ANC",
+    "price": 149.99,
+    "brand": "AudioPro",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "SKU": "AP-EB-003",
+    "availability_status": "in_stock",
+    "inventory_count": 220,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "ELEC-004",
+    "title": "Portable Power Bank 20000mAh",
+    "description": "High-capacity portable power bank with fast charging, dual USB ports, and LED display. Features intelligent charging protection and compact design. Perfect for travel, outdoor activities, emergencies, and daily charging needs.",
+    "semantic_description": "power bank portable charger battery pack fast charging USB mobile charging travel accessory emergency power backup portable battery",
+    "price": 49.99,
+    "brand": "PowerMax",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "SKU": "PM-PB-004",
+    "availability_status": "in_stock",
+    "inventory_count": 300,
+    "rating": 4.5,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "ELEC-005",
+    "title": "Smart Home Security Camera",
+    "description": "1080p HD smart security camera with night vision, motion detection, two-way audio, and cloud storage. Features wide-angle lens and smartphone app control. Perfect for home security, baby monitoring, pet watching, and property surveillance.",
+    "semantic_description": "security camera smart home surveillance WiFi camera night vision motion detection home monitoring baby monitor pet camera wireless security",
+    "price": 89.99,
+    "brand": "SecureHome",
+    "category": "Electronics",
+    "subcategory": "Smart Home",
+    "SKU": "SH-SC-005",
+    "availability_status": "in_stock",
+    "inventory_count": 150,
+    "rating": 4.6,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "WATCH-001",
+    "title": "Classic Leather Strap Watch",
+    "description": "Elegant analog watch with genuine leather strap, stainless steel case, and sapphire crystal glass. Features minimalist design with date display and water resistance up to 50m. Perfect for business meetings, formal events, daily wear, and professional settings.",
+    "semantic_description": "classic watch leather strap analog timepiece dress watch business formal elegant minimalist stainless steel water resistant professional accessory",
+    "price": 199.99,
+    "brand": "TimeClassic",
+    "category": "Watches",
+    "subcategory": "Dress Watches",
+    "SKU": "TC-LW-001",
+    "availability_status": "in_stock",
+    "inventory_count": 80,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "WATCH-002",
+    "title": "Sport Chronograph Watch",
+    "description": "Rugged sport chronograph with stopwatch function, tachymeter bezel, and luminous hands. Features durable stainless steel construction and 100m water resistance. Perfect for sports activities, outdoor adventures, fitness tracking, and active lifestyle.",
+    "semantic_description": "sport watch chronograph stopwatch athletic timepiece outdoor adventure fitness water resistant durable rugged active lifestyle sports timer",
+    "price": 249.99,
+    "brand": "SportTime",
+    "category": "Watches",
+    "subcategory": "Sport Watches",
+    "SKU": "ST-CW-002",
+    "availability_status": "in_stock",
+    "inventory_count": 95,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "WATCH-003",
+    "title": "Luxury Automatic Watch",
+    "description": "Premium automatic mechanical watch with exhibition case back, Swiss movement, and 18k gold-plated case. Features intricate craftsmanship and timeless design. Perfect for collectors, luxury enthusiasts, special occasions, and investment pieces.",
+    "semantic_description": "luxury watch automatic mechanical Swiss movement premium timepiece gold collector investment piece exhibition back high-end sophisticated elegant",
+    "price": 899.99,
+    "brand": "LuxeTime",
+    "category": "Watches",
+    "subcategory": "Luxury Watches",
+    "SKU": "LT-AW-003",
+    "availability_status": "in_stock",
+    "inventory_count": 25,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "WATCH-004",
+    "title": "Digital Smart Sports Watch",
+    "description": "Advanced digital sports watch with GPS tracking, heart rate monitor, multiple sport modes, and smartphone notifications. Features long battery life and rugged design. Perfect for running, cycling, swimming, hiking, and fitness training.",
+    "semantic_description": "digital watch smart sports watch GPS fitness tracker heart rate monitor running cycling swimming outdoor sports activity tracker health monitor",
+    "price": 179.99,
+    "brand": "FitTrack",
+    "category": "Watches",
+    "subcategory": "Smart Watches",
+    "SKU": "FT-SW-004",
+    "availability_status": "in_stock",
+    "inventory_count": 140,
+    "rating": 4.6,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "WATCH-005",
+    "title": "Vintage Pocket Watch",
+    "description": "Antique-style pocket watch with chain, Roman numerals, and mechanical movement. Features ornate engraving and polished brass case. Perfect for collectors, vintage enthusiasts, costume accessories, and unique gifts.",
+    "semantic_description": "pocket watch vintage antique mechanical timepiece collectible brass chain Roman numerals classic retro traditional heirloom gift",
+    "price": 129.99,
+    "brand": "VintageTime",
+    "category": "Watches",
+    "subcategory": "Pocket Watches",
+    "SKU": "VT-PW-005",
+    "availability_status": "in_stock",
+    "inventory_count": 60,
+    "rating": 4.5,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CAM-001",
+    "title": "Mirrorless Digital Camera",
+    "description": "Professional 24MP mirrorless camera with 4K video, fast autofocus, and interchangeable lens system. Features in-body stabilization and weather-sealed body. Perfect for photography enthusiasts, content creators, vlogging, and professional shoots.",
+    "semantic_description": "mirrorless camera digital photography 4K video professional photographer content creator vlogging interchangeable lens autofocus image stabilization",
+    "price": 1299.99,
+    "brand": "PhotoPro",
+    "category": "Cameras",
+    "subcategory": "Mirrorless Cameras",
+    "SKU": "PP-MC-001",
+    "availability_status": "in_stock",
+    "inventory_count": 35,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CAM-002",
+    "title": "Action Camera 4K",
+    "description": "Compact waterproof action camera with 4K 60fps video, image stabilization, and voice control. Features wide-angle lens and mounting accessories. Perfect for extreme sports, underwater filming, travel vlogging, and adventure recording.",
+    "semantic_description": "action camera 4K waterproof sports camera GoPro adventure extreme sports underwater diving travel vlogging compact portable mounting",
+    "price": 349.99,
+    "brand": "ActionCam",
+    "category": "Cameras",
+    "subcategory": "Action Cameras",
+    "SKU": "AC-AC-002",
+    "availability_status": "in_stock",
+    "inventory_count": 120,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1519558260268-cde7e03a0152?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CAM-003",
+    "title": "Instant Print Camera",
+    "description": "Fun instant camera that prints photos immediately with retro design and built-in flash. Features automatic exposure and creative filters. Perfect for parties, events, scrapbooking, gifts, and instant memories.",
+    "semantic_description": "instant camera polaroid print photo retro vintage party fun memories scrapbook gift creative filters automatic flash portable",
+    "price": 99.99,
+    "brand": "InstaPrint",
+    "category": "Cameras",
+    "subcategory": "Instant Cameras",
+    "SKU": "IP-IC-003",
+    "availability_status": "in_stock",
+    "inventory_count": 180,
+    "rating": 4.5,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CAM-004",
+    "title": "Professional DSLR Camera Kit",
+    "description": "Full-frame 32MP DSLR camera with dual card slots, 4K video, and professional lens kit. Features advanced autofocus system and weather sealing. Perfect for professional photographers, wedding photography, studio work, and commercial shoots.",
+    "semantic_description": "DSLR camera professional photography full-frame wedding photographer studio commercial high resolution lens kit autofocus weather sealed",
+    "price": 2499.99,
+    "brand": "ProShot",
+    "category": "Cameras",
+    "subcategory": "DSLR Cameras",
+    "SKU": "PS-DK-004",
+    "availability_status": "in_stock",
+    "inventory_count": 20,
+    "rating": 4.9,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CAM-005",
+    "title": "Compact Point and Shoot Camera",
+    "description": "Portable compact camera with 20x optical zoom, 1080p video, and intelligent auto mode. Features pocket-sized design and long battery life. Perfect for travel photography, family events, everyday snapshots, and casual photography.",
+    "semantic_description": "compact camera point shoot travel photography zoom portable pocket camera family photos casual photography auto mode easy simple",
+    "price": 299.99,
+    "brand": "SnapEasy",
+    "category": "Cameras",
+    "subcategory": "Compact Cameras",
+    "SKU": "SE-CC-005",
+    "availability_status": "in_stock",
+    "inventory_count": 90,
+    "rating": 4.4,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1495121553079-4c61bcce1894?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CHAIR-001",
+    "title": "Executive Leather Office Chair",
+    "description": "Premium executive office chair with genuine leather upholstery, high back support, and adjustable features. Features padded armrests and smooth-rolling casters. Perfect for executive offices, home offices, conference rooms, and professional workspaces.",
+    "semantic_description": "executive chair office chair leather high back ergonomic professional desk chair comfortable adjustable luxury business workspace",
+    "price": 499.99,
+    "brand": "ExecutiveSeating",
+    "category": "Furniture",
+    "subcategory": "Office Chairs",
+    "SKU": "ES-EC-001",
+    "availability_status": "in_stock",
+    "inventory_count": 55,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CHAIR-002",
+    "title": "Gaming Racing Chair",
+    "description": "Ergonomic gaming chair with racing-style design, lumbar support pillow, and reclining backrest. Features PU leather, adjustable armrests, and 360-degree swivel. Perfect for gaming setups, streaming, esports, and long gaming sessions.",
+    "semantic_description": "gaming chair racing chair ergonomic gamer esports streaming comfortable adjustable reclining lumbar support desk chair PC gaming",
+    "price": 299.99,
+    "brand": "GameThrone",
+    "category": "Furniture",
+    "subcategory": "Gaming Chairs",
+    "SKU": "GT-GC-002",
+    "availability_status": "in_stock",
+    "inventory_count": 110,
+    "rating": 4.6,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CHAIR-003",
+    "title": "Modern Accent Chair",
+    "description": "Stylish mid-century modern accent chair with velvet upholstery and wooden legs. Features comfortable cushioning and elegant design. Perfect for living rooms, bedrooms, reading nooks, and contemporary home decor.",
+    "semantic_description": "accent chair modern velvet armchair living room bedroom furniture mid-century contemporary stylish comfortable decorative lounge chair",
+    "price": 349.99,
+    "brand": "ModernHome",
+    "category": "Furniture",
+    "subcategory": "Accent Chairs",
+    "SKU": "MH-AC-003",
+    "availability_status": "in_stock",
+    "inventory_count": 75,
+    "rating": 4.7,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CHAIR-004",
+    "title": "Mesh Ergonomic Task Chair",
+    "description": "Breathable mesh office chair with lumbar support, adjustable height, and tilt mechanism. Features lightweight design and excellent ventilation. Perfect for home offices, study rooms, workstations, and long work hours.",
+    "semantic_description": "mesh chair ergonomic office chair task chair breathable adjustable lumbar support home office work chair comfortable ventilated desk chair",
+    "price": 199.99,
+    "brand": "ErgoWork",
+    "category": "Furniture",
+    "subcategory": "Task Chairs",
+    "SKU": "EW-TC-004",
+    "availability_status": "in_stock",
+    "inventory_count": 140,
+    "rating": 4.5,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CHAIR-005",
+    "title": "Outdoor Folding Chair",
+    "description": "Portable folding chair with weather-resistant fabric, aluminum frame, and cup holder. Features compact design and carrying bag. Perfect for camping, beach trips, outdoor events, picnics, and tailgating.",
+    "semantic_description": "folding chair outdoor camping chair portable beach chair lightweight travel chair picnic outdoor furniture compact collapsible",
+    "price": 49.99,
+    "brand": "OutdoorComfort",
+    "category": "Furniture",
+    "subcategory": "Outdoor Chairs",
+    "SKU": "OC-FC-005",
+    "availability_status": "in_stock",
+    "inventory_count": 200,
+    "rating": 4.4,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1503602642458-232111445657?w=800&q=80"
+    ]
+  },
+  {
+    "product_id": "CHAIR-006",
+    "title": "Rocking Chair with Ottoman",
+    "description": "Classic wooden rocking chair with cushioned seat and matching ottoman. Features smooth rocking motion and comfortable padding. Perfect for nurseries, living rooms, relaxation, reading, and nursing mothers.",
+    "semantic_description": "rocking chair nursery chair ottoman comfortable relaxation reading chair wooden furniture cushioned glider nursing chair traditional",
+    "price": 399.99,
+    "brand": "ComfortRock",
+    "category": "Furniture",
+    "subcategory": "Rocking Chairs",
+    "SKU": "CR-RC-006",
+    "availability_status": "in_stock",
+    "inventory_count": 45,
+    "rating": 4.8,
+    "product_images_urls": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80"
+    ]
+  }
+]
