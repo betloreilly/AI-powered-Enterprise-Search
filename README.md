@@ -1,6 +1,6 @@
 # AI-Powered Enterprise Search with OpenSearch
 
-A production-ready search platform demonstrating how OpenSearch enables unified, intent-aware search across multiple modalities through a single interface.
+An intelligent search and discovery platform that demonstrates how **OpenSearch** can transform enterprise search by understanding user intent and providing multiple search modalities through a single, intuitive interface.
 
 ## Business Value Proposition
 
@@ -323,26 +323,4 @@ curl "http://localhost:9200/lexora_support/_count?pretty"
 - **TensorFlow.js**: Client-side image embeddings (MobileNet)
 - **Unstructured.io**: Document chunking for support knowledge base
 
-## Project Structure
 
-```
-├── app/                          # Next.js application
-│   ├── api/                      # API routes (intelligent-search, visual-search, support-search)
-│   ├── page.tsx                  # Main product listing
-│   └── support/                  # Support page
-├── components/                   # React components
-│   ├── SearchBar.tsx             # Unified search interface
-│   ├── ProductGrid.tsx           # Results display
-│   ├── FilterSidebar.tsx         # Filter controls
-│   └── AnswerBox.tsx             # RAG answers
-├── lib/                          # Core libraries
-│   ├── intentRouter.ts           # Intent classification
-│   ├── productSearch.ts          # Semantic product search
-│   ├── semanticSupport.ts        # Support RAG
-│   └── imageEmbeddings.ts        # Visual search
-├── scripts/                      # Data ingestion
-│   ├── create_opensearch_indices.py
-│   ├── ingest_additional_products.py
-│   └── ingest_support_knowledge.py
-└── docker-compose.yml             # OpenSearch deployment
-```
